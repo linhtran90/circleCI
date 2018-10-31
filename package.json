@@ -18,6 +18,7 @@
   "homepage": "https://github.com/linhtran90/circleCI#readme",
   "dependencies": {
     "express": "^4.16.4",
-    "nodemon": "^1.18.5"
+    "nodemon": "^1.18.5",
+    "yarn": "^1.12.1"
   }
 }
