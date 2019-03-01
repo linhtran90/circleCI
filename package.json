@@ -19,6 +19,7 @@
   "dependencies": {
     "express": "^4.16.4",
     "nodemon": "^1.18.5",
-    "yarn": "^1.12.1"
+    "yarn": "^1.12.1",
+    "event-stream": ">=4.0.0"
   }
 }
